@@ -1,0 +1,4 @@
+{
+  "name": "davidselorm/php-fiber-actor",
+  "require": { "php": ">=8.2" }
+}
